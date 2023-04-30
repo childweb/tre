@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+
+
+a:hover {
+    background-color: cyan;
+}
+
+header {
+    background-image: linear-gradient(to right,ivory,dodgerblue);
+}
+
+h2 {
+    background-image: linear-gradient(to right,ivory,dodgerblue)
+}
+
+footer {
+    background-color: dodgerblue;
+    margin-top: 20px;
+}
+
+head {
+    text-align: center;
+}
+
